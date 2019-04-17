@@ -1,0 +1,2 @@
+Warning[2103] C:\Users\Yogesh Tamhane\MPLABXProjects\structClock.X\main.c 15 : default startup code expects main function declared as 'void main (void)'
+Error[1105] C:\Users\Yogesh Tamhane\MPLABXProjects\structClock.X\main.c 17 : symbol 'EXIT_SUCCESS' has not been defined
